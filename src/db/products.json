@@ -1,0 +1,18 @@
+[
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174000",
+      "name": "Стальной болт",
+      "price": 10.50,
+      "inProduction": true,
+      "productionDate": "2025-05-01",
+      "components": ["Сталь", "Никель"]
+    },
+    {
+      "id": "123e4567-e89b-12d3-a456-426614174001",
+      "name": "Металлическая шестерня",
+      "price": 25.75,
+      "inProduction": false,
+      "productionDate": "2025-04-15",
+      "components": ["Сталь", "Хром"]
+    }
+  ]
